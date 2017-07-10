@@ -17,7 +17,7 @@ class Playlist {
 
 // Create an instance of the Playlist class and set it to a variable called `myPlaylist`
 // Call the instance's `addSong` method to add a song to the instance's `songs` array
-var myPlaylist = new Playlist(mine)
+var myPlaylist = new Playlist('mine')
 myPlaylist.addSong('Ohio')
 
 
